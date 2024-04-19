@@ -97,7 +97,7 @@ const Model = () => {
           <div className="mx-auto w-full">
             <p className="text-sm font-light text-center mb-5">{model.title}</p>
             <div className="flex-center">
-              <ul className="color-container">
+              {/* <ul className="color-container">
                 {models.map((item, i) => (
                   <li
                     key={i}
@@ -108,7 +108,7 @@ const Model = () => {
                     onClick={() => setModel(item)}
                   />
                 ))}
-              </ul>
+              </ul> */}
 
               <button className="size-btn-container">
                 {sizes.map(({ label, value }) => (
