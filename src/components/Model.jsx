@@ -70,7 +70,7 @@ const Model = () => {
             />
 
             <ModelView
-              index={1}
+              index={2}
               groupRef={large}
               gsapType="view2"
               controlRef={cameraControlLarge}
