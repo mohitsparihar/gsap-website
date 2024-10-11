@@ -1,8 +1,5 @@
-# React + Vite
+# React + Vite + GSAP
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is small attempt to try to learn GSAP by creating interactive site.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Live version can be accessed [here](https://gsap-iphone-webpage.netlify.app/)
